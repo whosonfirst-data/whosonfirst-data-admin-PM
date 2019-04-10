@@ -1,0 +1,224 @@
+{
+  "id": 85677297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.025142,
+    "geom:area_square_m":212221272.22863,
+    "geom:bbox":"-56.3965958318,46.7807477895,-56.23550371,47.1412621109",
+    "geom:latitude":46.951612,
+    "geom:longitude":-56.32442,
+    "gn:population":605,
+    "iso:country":"PM",
+    "label:eng_x_preferred_longname":[
+        "Miquelon-Langlade Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "lbl:latitude":47.040344,
+    "lbl:longitude":-56.332352,
+    "mps:latitude":47.040344,
+    "mps:longitude":-56.332352,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:deu_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:eng_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:eus_x_preferred":[
+        "Mikelune-Langlade"
+    ],
+    "name:fin_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:fra_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:hrv_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:hun_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:ita_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:lit_x_preferred":[
+        "Mikelonas"
+    ],
+    "name:nld_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:oci_x_preferred":[
+        "Miquelon e Langlada"
+    ],
+    "name:pol_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043a\u0435\u043b\u043e\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:spa_x_preferred":[
+        "Miquel\u00f3n-Langlade"
+    ],
+    "name:unk_x_variant":[
+        "Commune de Miquelon-Langlade"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SPM",
+    "ne:adm0_label":"3",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"SPM-4867",
+    "ne:adm1_code":"SPM-4867",
+    "ne:admin":"Saint Pierre and Miquelon",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"PM.ML",
+    "ne:code_local":"97501",
+    "ne:datarank":"10",
+    "ne:diss_me":"4867",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Saint Pierre and Miquelon",
+    "ne:gn_a1_code":"PM.97501",
+    "ne:gn_id":"3424938",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Commune de Miquelon-Langlade",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SB00",
+    "ne:gns_id":"-1187330",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Saint-Pierre et Miquelon, Collectivite Territoriale de",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SPM",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"",
+    "ne:iso_a2":"PM",
+    "ne:labelrank":"20",
+    "ne:latitude":"47.04610000000",
+    "ne:longitude":"-56.34180000000",
+    "ne:mapcolor13":11,
+    "ne:mapcolor9":9,
+    "ne:name":"Miquelon-Langlade",
+    "ne:name_alt":"",
+    "ne:name_len":17,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"FR1",
+    "ne:sub_code":"",
+    "ne:type":"Commune",
+    "ne:type_en":"Commune",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Miquelon-Langlade",
+    "ne:woe_id":24549864,
+    "ne:woe_label":"Miquelon-Langlade, PM, Saint Pierre and Miquelon",
+    "ne:woe_name":"Miquelon-Langlade",
+    "qs:a0":"Saint Pierre and Miquelon",
+    "qs:a0_lc":"PM",
+    "qs:a1":"Miquelon-Langlade",
+    "qs:a1_lc":"SPM-4867",
+    "qs:adm0":"Saint Pierre and Miquelon",
+    "qs:adm0_a3":"SPM",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-01-01",
+    "statoids:area_km":"216",
+    "statoids:area_mi":"83",
+    "statoids:as_of_date":"2010-01-01",
+    "statoids:capital":"Miquelon",
+    "statoids:country":"PM",
+    "statoids:gec":"",
+    "statoids:hasc":"PM.ML",
+    "statoids:iso":"",
+    "statoids:name":"Miquelon-Langlade",
+    "statoids:population":"625",
+    "statoids:timezone":"-3~",
+    "statoids:type":"commune",
+    "wd:wordcount":621,
+    "wof:belongsto":[
+        85632371,
+        136253037,
+        102191575,
+        1158846601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"",
+        "gn:id":3424938,
+        "gp:id":24549864,
+        "hasc:id":"PM.ML",
+        "qs:id":219958,
+        "wd:id":"Q570289",
+        "wk:page":"Miquelon-Langlade"
+    },
+    "wof:country":"PM",
+    "wof:geomhash":"d4c7131918a699dafd51cdf8ef40095e",
+    "wof:hierarchy":[
+        {
+            "continent":102191575,
+            "continent_id":-1,
+            "country_id":-1,
+            "dependency_id":85632371,
+            "empire_id":136253037,
+            "region_id":85677297
+        }
+    ],
+    "wof:id":85677297,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lang_x_official":[
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "fra"
+    ],
+    "wof:lastmodified":1553550504,
+    "wof:name":"Miquelon-Langlade",
+    "wof:parent_id":1158846601,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"commune",
+    "wof:population":625,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pm",
+    "wof:shortcode":"ML",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.39659583183214,
+    46.78074778947894,
+    -56.23550371002813,
+    47.14126211085778
+],
+  "geometry": {"coordinates":[[[-56.27379309797305,46.89545319221111],[-56.23550371002813,46.87201569237038],[-56.24925696473707,46.84227122633609],[-56.28929602778942,46.81378815300093],[-56.34626217356043,46.78359609618292],[-56.35850989481577,46.78074778947894],[-56.3706762355198,46.78620026213247],[-56.37791907490532,46.79901764544803],[-56.37507076730202,46.80695221637177],[-56.37511145712801,46.81395091410343],[-56.39110266755404,46.82404205929367],[-56.39635169197697,46.83637116110026],[-56.37987220004197,46.85150788068421],[-56.34276282514423,46.87555573151184],[-56.32827714817182,46.91494375195265],[-56.33678137845783,46.95425039364079],[-56.38499915318835,47.03563060137122],[-56.38817298119807,47.05182526182642],[-56.39110266755404,47.0878360051276],[-56.39659583183214,47.10398997665612],[-56.39590410119325,47.11359284123671],[-56.38768469968909,47.12539297170832],[-56.37743079249702,47.13426341402538],[-56.36628170463695,47.14020416908721],[-56.35464433526784,47.14126211085778],[-56.34276282514423,47.13564687710175],[-56.36131751169376,47.12596263196997],[-56.37169348926307,47.11615631736021],[-56.37116451702877,47.10590241106746],[-56.35700436046284,47.09467194265608],[-56.34032141759928,47.08905670800073],[-56.30479895670646,47.08315664366421],[-56.25332597611288,47.05369700731109],[-56.25169837048338,47.04389069270138],[-56.25230872326892,47.03021881764437],[-56.25601152261362,47.01801178621503],[-56.26935787726416,47.00844961146043],[-56.27379309797305,46.9990908876344],[-56.28034420492111,46.98969147308304],[-56.29185950391292,46.98541901257744],[-56.29759680894551,46.98753489791727],[-56.30028235634563,46.99225495010592],[-56.30199133982842,46.99697500229456],[-56.3051651678382,46.9990908876344],[-56.31216386556991,46.99835846627025],[-56.32970130107412,46.99225495010592],[-56.34357662705963,46.99591705962467],[-56.35020911365962,46.99461497620024],[-56.35016842383368,46.98541901257744],[-56.34577389205145,46.97992584829933],[-56.33971106661238,46.97907135655794],[-56.33385169210186,46.9795596371676],[-56.32591712117818,46.97646719060839],[-56.32005774576834,46.97638580915782],[-56.31371008974878,46.97565338689435],[-56.30858313660241,46.97174713752042],[-56.30675208184306,46.9649925805432],[-56.30968176999767,46.96015045797731],[-56.31387285085134,46.9566917993871],[-56.31602942601717,46.95380280195781],[-56.31602942601717,46.91278717768614],[-56.31175696461219,46.90013255457382],[-56.30117753791302,46.8963076839525],[-56.27379309797305,46.89545319221111]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1310420381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.30125,46.89748,-56.30125,46.89748",
+    "geom:latitude":46.89748,
+    "geom:longitude":-56.30125,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Village de l'Anse du Gouvernement",
+    "gn:country_code":"PM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8609303,
+    "gn:latitude":46.89748,
+    "gn:longitude":-56.30125,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Village de l\u2019Anse du Gouvernement",
+    "gn:population":0,
+    "gn:timezone":"America/Miquelon",
+    "iso:country":"PM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Village de l\u2019Anse du Gouvernement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8609303
+    },
+    "wof:country":"PM",
+    "wof:geomhash":"587eb0253554dbe6b1b35adb22cf90fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310420381,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310420381,
+    "wof:lastmodified":1537683111,
+    "wof:name":"Village de l'Anse du Gouvernement",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.30125,
+    46.89748,
+    -56.30125,
+    46.89748
+],
+  "geometry": {"coordinates":[-56.30125,46.89748],"type":"Point"}
+}

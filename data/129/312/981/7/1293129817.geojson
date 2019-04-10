@@ -1,0 +1,115 @@
+{
+  "id": 1293129817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.1773,46.77914,-56.1773,46.77914",
+    "geom:latitude":46.77914,
+    "geom:longitude":-56.1773,
+    "gn:admin1_code":"97502",
+    "gn:asciiname":"Saint-Pierre",
+    "gn:country_code":"PM",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLC",
+    "gn:geonameid":3424934,
+    "gn:latitude":46.77914,
+    "gn:longitude":-56.1773,
+    "gn:modification_date":"2013-12-22",
+    "gn:name":"Saint-Pierre",
+    "gn:population":6200,
+    "gn:timezone":"America/Miquelon",
+    "iso:country":"PM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Saint Pierre"
+    ],
+    "name:deu_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:ell_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:eng_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:fin_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:ido_x_preferred":[
+        "St Pierre"
+    ],
+    "name:ind_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:ita_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0dd\ud53c\uc5d0\ub974"
+    ],
+    "name:pol_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:por_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:spa_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:swe_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632371,
+        85677293,
+        136253037,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3424934,
+        "wk:page":"Saint-Pierre%2C_Saint_Pierre_and_Miquelon"
+    },
+    "wof:country":"PM",
+    "wof:geomhash":"e149f31e096b0c3458f180d9ba898933",
+    "wof:hierarchy":[
+        {
+            "continent":102191575,
+            "continent_id":-1,
+            "country_id":-1,
+            "dependency_id":85632371,
+            "empire_id":136253037,
+            "locality_id":1293129817,
+            "region_id":85677293
+        }
+    ],
+    "wof:id":1293129817,
+    "wof:lastmodified":1537683111,
+    "wof:name":"Saint-Pierre",
+    "wof:parent_id":85677293,
+    "wof:placetype":"locality",
+    "wof:population":6200,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.1773,
+    46.77914000000001,
+    -56.1773,
+    46.77914000000001
+],
+  "geometry": {"coordinates":[-56.1773,46.77914000000001],"type":"Point"}
+}

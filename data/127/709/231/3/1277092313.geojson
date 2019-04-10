@@ -1,0 +1,69 @@
+{
+  "id": 1277092313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.36123,46.86268,-56.36123,46.86268",
+    "geom:latitude":46.86268,
+    "geom:longitude":-56.36123,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Petit Barachois",
+    "gn:country_code":"PM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3425682,
+    "gn:latitude":46.86268,
+    "gn:longitude":-56.36123,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Petit Barachois",
+    "gn:population":0,
+    "gn:timezone":"America/Miquelon",
+    "iso:country":"PM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632371,
+        85677297,
+        136253037,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3425682
+    },
+    "wof:country":"PM",
+    "wof:geomhash":"d00ed3962f32edc477321f629c4f1e44",
+    "wof:hierarchy":[
+        {
+            "continent":102191575,
+            "continent_id":-1,
+            "country_id":-1,
+            "dependency_id":85632371,
+            "empire_id":136253037,
+            "locality_id":1277092313,
+            "region_id":85677297
+        }
+    ],
+    "wof:id":1277092313,
+    "wof:lastmodified":1536753819,
+    "wof:name":"Petit Barachois",
+    "wof:parent_id":85677297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.36123000000001,
+    46.86268,
+    -56.36123000000001,
+    46.86268
+],
+  "geometry": {"coordinates":[-56.36123000000001,46.86268],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 890433213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.38139,47.0975,-56.38139,47.0975",
+    "geom:latitude":47.0975,
+    "geom:longitude":-56.38139,
+    "gn:country":"PM",
+    "gn:fcode":"PPLA",
+    "gn:pop":1141,
+    "iso:country":"PM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Miquelon"
+    ],
+    "name:eng_x_preferred":[
+        "Miquelon"
+    ],
+    "qs:name":"Miquelon",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632371,
+        85677297,
+        136253037,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3424941,
+        "gp:id":161841,
+        "qs:id":279749,
+        "wd:id":"Q1932388"
+    },
+    "wof:country":"PM",
+    "wof:created":1469051971,
+    "wof:geomhash":"bfe34fc2c99fec44b728bb72caad4e23",
+    "wof:hierarchy":[
+        {
+            "continent":102191575,
+            "continent_id":-1,
+            "country_id":-1,
+            "dependency_id":85632371,
+            "empire_id":136253037,
+            "locality_id":890433213,
+            "region_id":85677297
+        }
+    ],
+    "wof:id":890433213,
+    "wof:lastmodified":1535045736,
+    "wof:name":"Miquelon",
+    "wof:parent_id":85677297,
+    "wof:placetype":"locality",
+    "wof:population":1141,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.38139,
+    47.0975,
+    -56.38139,
+    47.0975
+],
+  "geometry": {"coordinates":[-56.38139,47.0975],"type":"Point"}
+}

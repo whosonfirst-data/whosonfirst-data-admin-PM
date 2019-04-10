@@ -1,0 +1,69 @@
+{
+  "id": 1259798401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.34258,46.87365,-56.34258,46.87365",
+    "geom:latitude":46.87365,
+    "geom:longitude":-56.34258,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Le Ruisseau Debons",
+    "gn:country_code":"PM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8614838,
+    "gn:latitude":46.87365,
+    "gn:longitude":-56.34258,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Le Ruisseau Debons",
+    "gn:population":0,
+    "gn:timezone":"America/Miquelon",
+    "iso:country":"PM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632371,
+        85677297,
+        136253037,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8614838
+    },
+    "wof:country":"PM",
+    "wof:geomhash":"b07f8792605088a082087a1d5ae33f10",
+    "wof:hierarchy":[
+        {
+            "continent":102191575,
+            "continent_id":-1,
+            "country_id":-1,
+            "dependency_id":85632371,
+            "empire_id":136253037,
+            "locality_id":1259798401,
+            "region_id":85677297
+        }
+    ],
+    "wof:id":1259798401,
+    "wof:lastmodified":1536901708,
+    "wof:name":"Le Ruisseau Debons",
+    "wof:parent_id":85677297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.34258000000001,
+    46.87365,
+    -56.34258000000001,
+    46.87365
+],
+  "geometry": {"coordinates":[-56.34258000000001,46.87365],"type":"Point"}
+}
