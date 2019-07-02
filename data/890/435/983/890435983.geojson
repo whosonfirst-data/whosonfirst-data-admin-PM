@@ -30,9 +30,6 @@
     "name:bam_x_preferred":[
         "Saint-Pierre"
     ],
-    "name:baq_x_preferred":[
-        "Saint-Pierre"
-    ],
     "name:bar_x_preferred":[
         "Saint-Pierre"
     ],
@@ -48,13 +45,13 @@
     "name:cat_x_preferred":[
         "Saint-Pierre"
     ],
-    "name:chi_x_preferred":[
-        "\u5723\u76ae\u57c3\u5c14"
+    "name:ces_x_preferred":[
+        "Saint-Pierre"
     ],
     "name:cos_x_preferred":[
         "Saint-Pierre"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Saint-Pierre"
     ],
     "name:dan_x_preferred":[
@@ -63,11 +60,11 @@
     "name:deu_x_preferred":[
         "Saint-Pierre"
     ],
-    "name:dut_x_preferred":[
-        "Saint-Pierre"
-    ],
     "name:ell_x_preferred":[
         "Saint-Pierre"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03b9\u03bd \u03a0\u03b9\u03ad\u03c1"
     ],
     "name:eng_x_preferred":[
         "Saint-Pierre"
@@ -78,8 +75,14 @@
     "name:est_x_preferred":[
         "Saint-Pierre"
     ],
+    "name:eus_x_preferred":[
+        "Saint-Pierre"
+    ],
     "name:fao_x_preferred":[
         "Saint-Pierre"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u067e\u06cc\u0631\u060c \u0633\u0646-\u067e\u06cc\u0631-\u0627-\u0645\u06cc\u06a9\u0644\u0648\u0646"
     ],
     "name:fin_x_preferred":[
         "Saint-Pierre"
@@ -90,19 +93,10 @@
     "name:frc_x_preferred":[
         "Saint-Pierre"
     ],
-    "name:fre_x_preferred":[
-        "Saint-Pierre"
-    ],
     "name:frp_x_preferred":[
         "Saint-Pierre"
     ],
     "name:fur_x_preferred":[
-        "Saint-Pierre"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d4\u10dc-\u10de\u10d8\u10d4\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Saint-Pierre"
     ],
     "name:gla_x_preferred":[
@@ -113,9 +107,6 @@
     ],
     "name:glg_x_preferred":[
         "Saint-Pierre"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03b9\u03bd \u03a0\u03b9\u03ad\u03c1"
     ],
     "name:gsw_x_preferred":[
         "Saint-Pierre"
@@ -156,6 +147,9 @@
     "name:kal_x_preferred":[
         "Saint-Pierre"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10dc-\u10de\u10d8\u10d4\u10e0\u10d8"
+    ],
     "name:kon_x_preferred":[
         "Saint-Pierre"
     ],
@@ -177,19 +171,22 @@
     "name:ltz_x_preferred":[
         "Saint-Pierre"
     ],
-    "name:may_x_preferred":[
-        "Saint-Pierre"
-    ],
     "name:min_x_preferred":[
         "Saint-Pierre"
     ],
     "name:mlg_x_preferred":[
         "Saint-Pierre"
     ],
+    "name:msa_x_preferred":[
+        "Saint-Pierre"
+    ],
     "name:nap_x_preferred":[
         "Saint-Pierre"
     ],
     "name:nds_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:nld_x_preferred":[
         "Saint-Pierre"
     ],
     "name:nno_x_preferred":[
@@ -216,9 +213,6 @@
     "name:pcd_x_preferred":[
         "Saint-Pierre"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0646 \u067e\u06cc\u0631\u060c \u0633\u0646-\u067e\u06cc\u0631-\u0627-\u0645\u06cc\u06a9\u0644\u0648\u0646"
-    ],
     "name:pms_x_preferred":[
         "Saint-Pierre"
     ],
@@ -237,7 +231,7 @@
     "name:roh_x_preferred":[
         "Saint-Pierre"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Saint-Pierre"
     ],
     "name:rus_x_preferred":[
@@ -249,7 +243,7 @@
     "name:sco_x_preferred":[
         "Saint-Pierre"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Saint-Pierre"
     ],
     "name:spa_x_preferred":[
@@ -300,9 +294,6 @@
     "name:war_x_preferred":[
         "Saint-Pierre"
     ],
-    "name:wel_x_preferred":[
-        "Saint-Pierre"
-    ],
     "name:wln_x_preferred":[
         "Saint-Pierre"
     ],
@@ -311,6 +302,9 @@
     ],
     "name:yor_x_preferred":[
         "Saint-Pierre"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u76ae\u57c3\u5c14"
     ],
     "name:zul_x_preferred":[
         "Saint-Pierre"
@@ -356,7 +350,7 @@
         }
     ],
     "wof:id":890435983,
-    "wof:lastmodified":1536881476,
+    "wof:lastmodified":1561793104,
     "wof:name":"Saint-Pierre",
     "wof:parent_id":85677293,
     "wof:placetype":"locality",
