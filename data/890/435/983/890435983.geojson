@@ -39,10 +39,16 @@
     "name:bos_x_preferred":[
         "Saint-Pierre"
     ],
+    "name:bre_x_preferred":[
+        "Sant-P\u00ear"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0435\u043d \u041f\u0438\u0435\u0440"
     ],
     "name:cat_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:ceb_x_preferred":[
         "Saint-Pierre"
     ],
     "name:ces_x_preferred":[
@@ -57,6 +63,9 @@
     "name:dan_x_preferred":[
         "Saint Pierre"
     ],
+    "name:dan_x_variant":[
+        "Saint-Pierre"
+    ],
     "name:deu_x_preferred":[
         "Saint-Pierre"
     ],
@@ -64,7 +73,8 @@
         "Saint-Pierre"
     ],
     "name:ell_x_variant":[
-        "\u03a3\u03b1\u03b9\u03bd \u03a0\u03b9\u03ad\u03c1"
+        "\u03a3\u03b1\u03b9\u03bd \u03a0\u03b9\u03ad\u03c1",
+        "\u03a3\u03b1\u03b9\u03bd-\u03a0\u03b9\u03b5\u03c1"
     ],
     "name:eng_x_preferred":[
         "Saint-Pierre"
@@ -83,6 +93,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u0646 \u067e\u06cc\u0631\u060c \u0633\u0646-\u067e\u06cc\u0631-\u0627-\u0645\u06cc\u06a9\u0644\u0648\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0646 \u067e\u06cc\u0631"
     ],
     "name:fin_x_preferred":[
         "Saint-Pierre"
@@ -180,6 +193,9 @@
     "name:msa_x_preferred":[
         "Saint-Pierre"
     ],
+    "name:nan_x_preferred":[
+        "Saint-Pierre"
+    ],
     "name:nap_x_preferred":[
         "Saint-Pierre"
     ],
@@ -237,6 +253,9 @@
     "name:rus_x_preferred":[
         "\u0421\u0435\u043d\u0442-\u041f\u044c\u0435\u0440"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u0435\u043d-\u041f\u044c\u0435\u0440"
+    ],
     "name:scn_x_preferred":[
         "Saint-Pierre"
     ],
@@ -248,6 +267,9 @@
     ],
     "name:spa_x_preferred":[
         "Saint-Pierre"
+    ],
+    "name:spa_x_variant":[
+        "San Pedro"
     ],
     "name:srd_x_preferred":[
         "Saint-Pierre"
@@ -275,6 +297,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646-\u067e\u06cc\u0631\u06cc\u060c \u0633\u06cc\u0646\u0679 \u067e\u06cc\u0631\u06cc \u0648 \u0645\u0642\u0648\u0644\u0648\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646-\u067e\u06cc\u0631\u06cc"
     ],
     "name:vec_x_preferred":[
         "Saint-Pierre"
@@ -350,7 +375,7 @@
         }
     ],
     "wof:id":890435983,
-    "wof:lastmodified":1561793104,
+    "wof:lastmodified":1563590151,
     "wof:name":"Saint-Pierre",
     "wof:parent_id":85677293,
     "wof:placetype":"locality",

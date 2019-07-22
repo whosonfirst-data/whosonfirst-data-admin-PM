@@ -25,7 +25,37 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:arg_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:ast_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:bam_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:bar_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:bre_x_preferred":[
+        "Miquelon-Langlade"
+    ],
     "name:cat_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:ces_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:cos_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:cym_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:dan_x_preferred":[
         "Miquelon-Langlade"
     ],
     "name:deu_x_preferred":[
@@ -34,13 +64,46 @@
     "name:eng_x_preferred":[
         "Miquelon-Langlade"
     ],
+    "name:epo_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:est_x_preferred":[
+        "Miquelon-Langlade"
+    ],
     "name:eus_x_preferred":[
         "Mikelune-Langlade"
+    ],
+    "name:fao_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u06a9\u0644\u0648\u0646-\u0644\u0627\u0646\u06af\u0644\u062f"
     ],
     "name:fin_x_preferred":[
         "Miquelon-Langlade"
     ],
     "name:fra_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:frc_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:frp_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:fur_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:gla_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:gle_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:glg_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:gsw_x_preferred":[
         "Miquelon-Langlade"
     ],
     "name:hrv_x_preferred":[
@@ -49,23 +112,122 @@
     "name:hun_x_preferred":[
         "Miquelon-Langlade"
     ],
+    "name:ido_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:ile_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:ina_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:ind_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:isl_x_preferred":[
+        "Miquelon-Langlade"
+    ],
     "name:ita_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:jam_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30af\u30ed\u30f3\uff1d\u30e9\u30f3\u30b0\u30e9\u30fc\u30c9"
+    ],
+    "name:kab_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:kal_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:kon_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:lav_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:lij_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:lim_x_preferred":[
         "Miquelon-Langlade"
     ],
     "name:lit_x_preferred":[
         "Mikelonas"
     ],
+    "name:ltz_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:min_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:mlg_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:msa_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:nap_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:nds_x_preferred":[
+        "Miquelon-Langlade"
+    ],
     "name:nld_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:nno_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:nob_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:nrm_x_preferred":[
         "Miquelon-Langlade"
     ],
     "name:oci_x_preferred":[
         "Miquelon e Langlada"
     ],
+    "name:pap_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:pcd_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:pms_x_preferred":[
+        "Miquelon-Langlade"
+    ],
     "name:pol_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:por_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:prg_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:rgn_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:roh_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:ron_x_preferred":[
         "Miquelon-Langlade"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u043a\u0435\u043b\u043e\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0438\u043a\u0435\u043b\u043e\u043d-\u041b\u0430\u043d\u0433\u043b\u0430\u0434"
+    ],
+    "name:scn_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:sco_x_preferred":[
+        "Miquelon-Langlade"
     ],
     "name:slk_x_preferred":[
         "Miquelon-Langlade"
@@ -73,8 +235,50 @@
     "name:spa_x_preferred":[
         "Miquel\u00f3n-Langlade"
     ],
+    "name:srd_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:swa_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:swe_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:tur_x_preferred":[
+        "Miquelon-Langlade"
+    ],
     "name:unk_x_variant":[
         "Commune de Miquelon-Langlade"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u06a9\u06cc\u0644\u0648\u0646-\u0644\u0627\u0646\u06af\u0644\u06cc\u062f\u06d2"
+    ],
+    "name:vec_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:vie_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:vls_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:vmf_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:vol_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:wln_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:wol_x_preferred":[
+        "Miquelon-Langlade"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bc6\u514b\u9686\uff0d\u6717\u683c\u62c9\u5fb7\u5cf6"
+    ],
+    "name:zul_x_preferred":[
+        "Miquelon-Langlade"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SPM",
@@ -200,7 +404,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550504,
+    "wof:lastmodified":1563590148,
     "wof:name":"Miquelon-Langlade",
     "wof:parent_id":1158846601,
     "wof:placetype":"region",

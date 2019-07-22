@@ -21,6 +21,9 @@
     "name:nld_x_preferred":[
         "Miquelon"
     ],
+    "name:spa_x_preferred":[
+        "Miquel\u00f3n"
+    ],
     "qs:name":"Miquelon",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":890433213,
-    "wof:lastmodified":1561793103,
+    "wof:lastmodified":1563590150,
     "wof:name":"Miquelon",
     "wof:parent_id":85677297,
     "wof:placetype":"locality",
