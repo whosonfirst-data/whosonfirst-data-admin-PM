@@ -14,6 +14,9 @@
     "itu:country_code":[
         "508"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SPM"
+    ],
     "lbl:latitude":47.042405,
     "lbl:longitude":-56.34943,
     "mps:latitude":47.042405,
@@ -739,7 +742,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563590153,
+    "wof:lastmodified":1565892069,
     "wof:name":"Saint Pierre and Miquelon",
     "wof:parent_id":136253037,
     "wof:placetype":"dependency",

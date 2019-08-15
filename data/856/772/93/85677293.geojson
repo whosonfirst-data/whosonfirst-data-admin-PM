@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SP"
+    ],
     "lbl:latitude":46.780669,
     "lbl:longitude":-56.188699,
     "mps:latitude":46.780669,
@@ -241,16 +244,13 @@
         }
     ],
     "wof:id":85677293,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1564216098,
+    "wof:lastmodified":1565733631,
     "wof:name":"Saint-Pierre",
     "wof:parent_id":1158846601,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ML"
+    ],
     "lbl:latitude":47.040344,
     "lbl:longitude":-56.332352,
     "mps:latitude":47.040344,
@@ -395,16 +398,13 @@
         }
     ],
     "wof:id":85677297,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563590148,
+    "wof:lastmodified":1565733631,
     "wof:name":"Miquelon-Langlade",
     "wof:parent_id":1158846601,
     "wof:placetype":"region",
