@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Miquelon",
     "iso:country":"PM",
+    "lbl:bbox":"-56.36258,46.85365,-56.32258,46.89365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632371,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259798401,
-    "wof:lastmodified":1536901708,
+    "wof:lastmodified":1566600169,
     "wof:name":"Le Ruisseau Debons",
     "wof:parent_id":85677297,
     "wof:placetype":"locality",
