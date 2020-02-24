@@ -661,6 +661,10 @@
     },
     "wof:country":"PM",
     "wof:country_alpha3":"SPM",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"7679695dd1e959a38eec0fe72784305a",
     "wof:hierarchy":[
         {
@@ -676,7 +680,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1537303773,
+    "wof:lastmodified":1582358125,
     "wof:name":"Saint Pierre and Miquelon",
     "wof:parent_id":136253037,
     "wof:placetype":"country",
