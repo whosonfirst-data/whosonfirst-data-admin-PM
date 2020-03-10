@@ -705,9 +705,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Saint_Pierre_and_Miquelon",
-        "digitalenvoy:country_code":[
-            666
-        ],
+        "digitalenvoy:country_code":666,
         "fb:id":"en.saint-pierre_and_miquelon",
         "fifa:id":"SPM",
         "fips:code":"SB",
@@ -747,7 +745,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1583529224,
+    "wof:lastmodified":1583797432,
     "wof:name":"Saint Pierre and Miquelon",
     "wof:parent_id":136253037,
     "wof:placetype":"dependency",
