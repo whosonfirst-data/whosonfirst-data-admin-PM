@@ -695,7 +695,6 @@
     "statoids:wmo":"FP",
     "wk:wordcount":4661,
     "wof:belongsto":[
-        85632371,
         102191575,
         136253037
     ],
@@ -730,11 +729,15 @@
     ],
     "wof:country":"PM",
     "wof:country_alpha3":"SPM",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth"
+    ],
     "wof:geomhash":"0c48ec3c4c78d491be272c9f43f0b2ea",
     "wof:hierarchy":[
         {
             "continent":102191575,
-            "dependency_id":85632371,
+            "dependency_id":1158846601,
             "empire_id":136253037
         }
     ],
@@ -745,7 +748,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1583797432,
+    "wof:lastmodified":1603259979,
     "wof:name":"Saint Pierre and Miquelon",
     "wof:parent_id":136253037,
     "wof:placetype":"dependency",
