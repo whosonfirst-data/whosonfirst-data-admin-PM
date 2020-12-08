@@ -349,13 +349,15 @@
     "src:population":"geonames",
     "wd:wordcount":1827,
     "wof:belongsto":[
+        102191575,
         85632371,
-        85677293,
         136253037,
-        102191575
+        85677293
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632371,
+    "wof:capital_of":[
+        85632371
+    ],
     "wof:concordances":{
         "gn:id":935214,
         "gp:id":1410240,
@@ -384,7 +386,7 @@
         }
     ],
     "wof:id":890435983,
-    "wof:lastmodified":1582358126,
+    "wof:lastmodified":1607390878,
     "wof:name":"Saint-Pierre",
     "wof:parent_id":85677293,
     "wof:placetype":"locality",
