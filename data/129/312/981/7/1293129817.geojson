@@ -2,7 +2,7 @@
   "id": 1293129817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2021-11-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,10 +27,13 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Sint Pierre"
+    ],
+    "name:arg_x_preferred":[
+        "Saint-Pierre"
     ],
     "name:ast_x_preferred":[
         "Saint Pierre"
@@ -38,8 +41,17 @@
     "name:aze_x_preferred":[
         "Sen-Pyer"
     ],
+    "name:bam_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:bar_x_preferred":[
+        "Saint-Pierre"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0435\u043d-\u041f\u2019\u0435\u0440"
+    ],
+    "name:bos_x_preferred":[
+        "Saint-Pierre"
     ],
     "name:bre_x_preferred":[
         "Sant-P\u00ear"
@@ -47,10 +59,19 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u043d \u041f\u0438\u0435\u0440"
     ],
+    "name:cat_x_preferred":[
+        "Saint-Pierre"
+    ],
     "name:ceb_x_preferred":[
         "Saint-Pierre"
     ],
     "name:ces_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:cos_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:cym_x_preferred":[
         "Saint-Pierre"
     ],
     "name:dan_x_preferred":[
@@ -74,10 +95,19 @@
     "name:epo_x_preferred":[
         "Sanktpiero"
     ],
+    "name:est_x_preferred":[
+        "Saint-Pierre"
+    ],
     "name:eus_x_preferred":[
         "Saint-Pierre"
     ],
+    "name:fao_x_preferred":[
+        "Saint-Pierre"
+    ],
     "name:fas_x_preferred":[
+        "\u0633\u0646 \u067e\u06cc\u0631"
+    ],
+    "name:fas_x_variant":[
         "\u0633\u0646 \u067e\u06cc\u0631"
     ],
     "name:fin_x_preferred":[
@@ -86,7 +116,31 @@
     "name:fra_x_preferred":[
         "Saint-Pierre"
     ],
+    "name:frc_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:frp_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:fur_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:gla_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:gle_x_preferred":[
+        "Saint-Pierre"
+    ],
     "name:glg_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:gsw_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df-\u05e4\u05d9\u05d9\u05e8"
+    ],
+    "name:hrv_x_preferred":[
         "Saint-Pierre"
     ],
     "name:hun_x_preferred":[
@@ -98,28 +152,88 @@
     "name:ido_x_variant":[
         "Sant-Pierre"
     ],
+    "name:ile_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:ina_x_preferred":[
+        "Saint-Pierre"
+    ],
     "name:ind_x_preferred":[
         "Saint-Pierre"
     ],
     "name:ita_x_preferred":[
         "Saint-Pierre"
     ],
+    "name:jam_x_preferred":[
+        "Saint-Pierre"
+    ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\uff1d\u30d4\u30a8\u30fc\u30eb"
+    ],
+    "name:kab_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:kal_x_preferred":[
+        "Saint-Pierre"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d4\u10dc-\u10de\u10d8\u10d4\u10e0\u10d8"
     ],
+    "name:kon_x_preferred":[
+        "Saint-Pierre"
+    ],
     "name:kor_x_preferred":[
         "\uc0dd\ud53c\uc5d0\ub974"
+    ],
+    "name:lav_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:lij_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:lim_x_preferred":[
+        "Saint-Pierre"
     ],
     "name:lit_x_preferred":[
         "Sen Pjeras"
     ],
+    "name:ltz_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:min_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:mlg_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:msa_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:nan_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:nap_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:nds_x_preferred":[
+        "Saint-Pierre"
+    ],
     "name:nld_x_preferred":[
         "Saint-Pierre"
     ],
+    "name:nno_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:nob_x_preferred":[
+        "Saint-Pierre"
+    ],
     "name:nor_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:nov_x_preferred":[
+        "Sankte Pier"
+    ],
+    "name:nrm_x_preferred":[
         "Saint-Pierre"
     ],
     "name:oci_x_preferred":[
@@ -127,6 +241,15 @@
     ],
     "name:oss_x_preferred":[
         "\u0421\u0435\u043d-\u041f\u044c\u0435\u0440"
+    ],
+    "name:pap_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:pcd_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:pms_x_preferred":[
+        "Saint-Pierre"
     ],
     "name:pol_x_preferred":[
         "Saint-Pierre"
@@ -137,11 +260,26 @@
     "name:por_x_variant":[
         "S\u00e3o Pedro"
     ],
+    "name:prg_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:rgn_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:roh_x_preferred":[
+        "Saint-Pierre"
+    ],
     "name:ron_x_preferred":[
         "Saint-Pierre"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043d-\u041f\u044c\u0435\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0435\u043d-\u041f\u044c\u0435\u0440"
+    ],
+    "name:scn_x_preferred":[
+        "Saint-Pierre"
     ],
     "name:sco_x_preferred":[
         "Saint-Pierre"
@@ -155,8 +293,14 @@
     "name:spa_x_variant":[
         "San Pedro"
     ],
+    "name:srd_x_preferred":[
+        "Saint-Pierre"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u043d \u041f\u0458\u0435\u0440"
+    ],
+    "name:swa_x_preferred":[
+        "Saint-Pierre"
     ],
     "name:swe_x_preferred":[
         "Saint-Pierre"
@@ -176,10 +320,31 @@
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646-\u067e\u06cc\u0631\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646-\u067e\u06cc\u0631\u06cc"
+    ],
+    "name:vec_x_preferred":[
+        "Saint-Pierre"
+    ],
     "name:vie_x_preferred":[
         "Saint-Pierre"
     ],
+    "name:vls_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:vmf_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:vol_x_preferred":[
+        "Saint-Pierre"
+    ],
     "name:war_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:wln_x_preferred":[
+        "Saint-Pierre"
+    ],
+    "name:wol_x_preferred":[
         "Saint-Pierre"
     ],
     "name:yor_x_preferred":[
@@ -188,21 +353,31 @@
     "name:zho_x_preferred":[
         "\u5723\u76ae\u57c3\u5c14"
     ],
+    "name:zul_x_preferred":[
+        "Saint-Pierre"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
+        102191575,
         85632371,
-        85677293,
         136253037,
-        102191575
+        85677293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3424934,
-        "wk:page":"Saint-Pierre%2C_Saint_Pierre_and_Miquelon"
+        "gp:id":1410240,
+        "qs_pg:id":219479,
+        "wd:id":"Q185678",
+        "wk:page":"Saint-Pierre"
+    },
+    "wof:concordances_alt":{
+        "gn:id":935214,
+        "qs_pg:id":1044588
     },
     "wof:country":"PM",
-    "wof:geomhash":"e149f31e096b0c3458f180d9ba898933",
+    "wof:geomhash":"093f46aa4988085552eef2d9aa7d81cb",
     "wof:hierarchy":[
         {
             "continent":102191575,
@@ -215,7 +390,7 @@
         }
     ],
     "wof:id":1293129817,
-    "wof:lastmodified":1566600168,
+    "wof:lastmodified":1636576712,
     "wof:name":"Saint-Pierre",
     "wof:parent_id":85677293,
     "wof:placetype":"locality",
@@ -228,9 +403,9 @@
 },
   "bbox": [
     -56.1773,
-    46.77914000000001,
+    46.77914,
     -56.1773,
-    46.77914000000001
+    46.77914
 ],
-  "geometry": {"coordinates":[-56.1773,46.77914000000001],"type":"Point"}
+  "geometry": {"coordinates":[-56.1773,46.77914],"type":"Point"}
 }

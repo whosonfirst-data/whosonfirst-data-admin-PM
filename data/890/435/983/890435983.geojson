@@ -140,6 +140,9 @@
     "name:ido_x_preferred":[
         "St Pierre"
     ],
+    "name:ido_x_variant":[
+        "Sant-Pierre"
+    ],
     "name:ile_x_preferred":[
         "Saint-Pierre"
     ],
@@ -215,6 +218,9 @@
     "name:nob_x_preferred":[
         "Saint-Pierre"
     ],
+    "name:nor_x_preferred":[
+        "Saint-Pierre"
+    ],
     "name:nov_x_preferred":[
         "Sankte Pier"
     ],
@@ -241,6 +247,9 @@
     ],
     "name:por_x_preferred":[
         "Saint-Pierre"
+    ],
+    "name:por_x_variant":[
+        "S\u00e3o Pedro"
     ],
     "name:prg_x_preferred":[
         "Saint-Pierre"
@@ -350,13 +359,13 @@
     "wd:wordcount":1827,
     "wof:belongsto":[
         102191575,
-        85632371,
+        1158846601,
         136253037,
         85677293
     ],
     "wof:breaches":[],
     "wof:capital_of":[
-        85632371
+        1158846601
     ],
     "wof:concordances":{
         "gn:id":935214,
@@ -379,14 +388,14 @@
             "continent":102191575,
             "continent_id":-1,
             "country_id":-1,
-            "dependency_id":85632371,
+            "dependency_id":1158846601,
             "empire_id":136253037,
             "locality_id":890435983,
             "region_id":85677293
         }
     ],
     "wof:id":890435983,
-    "wof:lastmodified":1607390878,
+    "wof:lastmodified":1636582834,
     "wof:name":"Saint-Pierre",
     "wof:parent_id":85677293,
     "wof:placetype":"locality",
