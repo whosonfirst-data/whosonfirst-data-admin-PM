@@ -215,14 +215,16 @@
         }
     ],
     "wof:id":1293129817,
-    "wof:lastmodified":1636582989,
+    "wof:lastmodified":1636583222,
     "wof:name":"Saint-Pierre",
     "wof:parent_id":85677293,
     "wof:placetype":"locality",
     "wof:population":6200,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890435983
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
