@@ -2,7 +2,7 @@
   "id": 1293129817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2021-11-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Sint Pierre"
@@ -191,10 +191,10 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
+        102191575,
         85632371,
-        85677293,
         136253037,
-        102191575
+        85677293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -202,7 +202,7 @@
         "wk:page":"Saint-Pierre%2C_Saint_Pierre_and_Miquelon"
     },
     "wof:country":"PM",
-    "wof:geomhash":"e149f31e096b0c3458f180d9ba898933",
+    "wof:geomhash":"093f46aa4988085552eef2d9aa7d81cb",
     "wof:hierarchy":[
         {
             "continent":102191575,
@@ -215,22 +215,24 @@
         }
     ],
     "wof:id":1293129817,
-    "wof:lastmodified":1566600168,
+    "wof:lastmodified":1636583222,
     "wof:name":"Saint-Pierre",
     "wof:parent_id":85677293,
     "wof:placetype":"locality",
     "wof:population":6200,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pm",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890435983
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -56.1773,
-    46.77914000000001,
+    46.77914,
     -56.1773,
-    46.77914000000001
+    46.77914
 ],
-  "geometry": {"coordinates":[-56.1773,46.77914000000001],"type":"Point"}
+  "geometry": {"coordinates":[-56.1773,46.77914],"type":"Point"}
 }
