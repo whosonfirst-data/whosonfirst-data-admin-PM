@@ -65,6 +65,9 @@
     "name:deu_x_preferred":[
         "Miquelon-Langlade"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03ba\u03b5\u03bb\u03cc\u03bd-\u039b\u03b1\u03bd\u03b3\u03ba\u03bb\u03ac\u03bd\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Miquelon-Langlade"
     ],
@@ -166,6 +169,9 @@
     ],
     "name:min_x_preferred":[
         "Miquelon-Langlade"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0438\u043a\u0435\u043b\u043e\u043d-\u041b\u0430\u043d\u0433\u043b\u0430\u0434"
     ],
     "name:mlg_x_preferred":[
         "Miquelon-Langlade"
@@ -289,6 +295,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5bc6\u514b\u9686\uff0d\u6717\u683c\u62c9\u5fb7\u5cf6"
+    ],
+    "name:zho_x_variant":[
+        "\u5bc6\u514b\u9686-\u6717\u683c\u62c9\u5fb7"
     ],
     "name:zul_x_preferred":[
         "Miquelon-Langlade"
@@ -414,7 +423,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636502622,
+    "wof:lastmodified":1690855721,
     "wof:name":"Miquelon-Langlade",
     "wof:parent_id":1158846601,
     "wof:placetype":"region",
