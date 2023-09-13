@@ -791,7 +791,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2017",
+    "src:population_date":"2017",
     "statoids:dial":"508",
     "statoids:ds":"F",
     "statoids:fifa":"SPM",
@@ -858,7 +858,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694493031,
+    "wof:lastmodified":1694639813,
     "wof:name":"Saint Pierre and Miquelon",
     "wof:parent_id":136253037,
     "wof:placetype":"dependency",
