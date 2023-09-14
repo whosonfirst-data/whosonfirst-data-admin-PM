@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028053,
-    "geom:area_square_m":236871290.305643,
+    "geom:area_square_m":236871147.563278,
     "geom:bbox":"-56.408611,46.748417,-56.082359,47.142502",
     "geom:latitude":46.932242,
     "geom:longitude":-56.310215,
@@ -13,6 +13,9 @@
     "iso:country":"PM",
     "itu:country_code":[
         "508"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "territorial collectivity"
     ],
     "label:eng_x_preferred_shortcode":[
         "SPM"
@@ -787,6 +790,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"naturalearth",
+    "src:population_date":"2017",
     "statoids:dial":"508",
     "statoids:ds":"F",
     "statoids:fifa":"SPM",
@@ -838,7 +843,7 @@
     ],
     "wof:country":"PM",
     "wof:country_alpha3":"SPM",
-    "wof:geomhash":"0c48ec3c4c78d491be272c9f43f0b2ea",
+    "wof:geomhash":"1254ed8217a9fe864bf09a1b7085c983",
     "wof:hierarchy":[
         {
             "continent":102191575,
@@ -853,10 +858,12 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690855722,
+    "wof:lastmodified":1694639813,
     "wof:name":"Saint Pierre and Miquelon",
     "wof:parent_id":136253037,
     "wof:placetype":"dependency",
+    "wof:population":5997,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-pm",
     "wof:shortcode":"SPM",
     "wof:superseded_by":[],
