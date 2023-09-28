@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025142,
-    "geom:area_square_m":212221272.22863,
+    "geom:area_square_m":212221618.055971,
     "geom:bbox":"-56.396596,46.780748,-56.235504,47.141262",
     "geom:latitude":46.951612,
     "geom:longitude":-56.32442,
@@ -391,8 +391,7 @@
     "wof:belongsto":[
         85632371,
         136253037,
-        102191575,
-        1158846601
+        102191575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -404,8 +403,9 @@
         "wd:id":"Q570289",
         "wk:page":"Miquelon-Langlade"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PM",
-    "wof:geomhash":"fee4aba5aa96cec404f9bdc8bee53363",
+    "wof:geomhash":"1e439604017e38cc52629f0cb4eb8d49",
     "wof:hierarchy":[
         {
             "continent":102191575,
@@ -423,7 +423,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690855721,
+    "wof:lastmodified":1695884938,
     "wof:name":"Miquelon-Langlade",
     "wof:parent_id":1158846601,
     "wof:placetype":"region",

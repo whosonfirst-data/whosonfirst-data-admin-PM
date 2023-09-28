@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003532,
-    "geom:area_square_m":29909200.14859,
+    "geom:area_square_m":29908909.224027,
     "geom:bbox":"-56.240305,46.752753,-56.144765,46.811591",
     "geom:latitude":46.779881,
     "geom:longitude":-56.189609,
@@ -219,9 +219,9 @@
     "statoids:type":"commune",
     "wd:wordcount":1827,
     "wof:belongsto":[
-        102191575,
         1158846601,
-        136253037
+        136253037,
+        102191575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -231,8 +231,9 @@
         "hasc:id":"PM.SP",
         "qs_pg:id":219959
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PM",
-    "wof:geomhash":"098f2edbd695cb79134bfef16283af8b",
+    "wof:geomhash":"e43296247fa19bdcc02f68639d66e4f8",
     "wof:hierarchy":[
         {
             "continent":102191575,
@@ -250,7 +251,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636576695,
+    "wof:lastmodified":1695884975,
     "wof:name":"Saint-Pierre",
     "wof:parent_id":1158846601,
     "wof:placetype":"region",
