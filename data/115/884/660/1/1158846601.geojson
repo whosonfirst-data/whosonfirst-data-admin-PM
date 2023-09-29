@@ -826,6 +826,7 @@
         "gp:id":23424939,
         "hasc:id":"PM",
         "ioc:id":"SPM",
+        "iso:code":"PM",
         "itu:id":"SPM",
         "loc:id":"n83017162",
         "marc:id":"xl",
@@ -837,6 +838,7 @@
         "wd:id":"Q34617",
         "wmo:id":"FP"
     },
+    "wof:concordances_official":"iso:code",
     "wof:controlled":[
         "wof:hierarchy",
         "wof:parent_id"
@@ -858,7 +860,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694639813,
+    "wof:lastmodified":1695881384,
     "wof:name":"Saint Pierre and Miquelon",
     "wof:parent_id":136253037,
     "wof:placetype":"dependency",
